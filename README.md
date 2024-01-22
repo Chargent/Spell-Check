@@ -1,6 +1,6 @@
-# **Wagner-Fisher Algorithm**
+# **Spell Check Algorithm**
 
-## Explanation of the algorithm
+## Wagner-Fischer algorithm
 
 The Wagner–Fischer algorithm is a dynamic programming algorithm that computes the edit distance between two strings of characters.
 
